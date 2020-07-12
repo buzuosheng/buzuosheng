@@ -1,7 +1,7 @@
 
 ### buzuosheng's Github
 
-一个二十来岁，越学越菜的程序员。学习方向有前端、后端、服务器等。白白胖胖，充满希望，清澈明朗，积极向上。
+一个二十来岁，越学越菜但是还要不停学习的程序员。学习方向有前端、后端、服务器等。清澈明朗，积极向上。
 
 - 博客主站：[buzuosheng.com](https://www.buzuosheng.com/)
 - CSDN博客：[qq_1015350043](https://blog.csdn.net/qq_41907806)
