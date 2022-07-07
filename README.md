@@ -3,7 +3,7 @@
 
 一个二十来岁，越学越菜但是还要不停学习的程序员。学习方向有前端、后端、服务器等。
 
-我踏步向前，于是脚下就有了路。相信所有的努力终会结果。
+
 
 - 博客主站：[buzuosheng.com](https://www.buzuosheng.com/)
 - CSDN博客：[qq_1015350043](https://blog.csdn.net/qq_41907806)
