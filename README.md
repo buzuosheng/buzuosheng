@@ -34,4 +34,4 @@ YAML          1 hr 25 mins    █▒░░░░░░░░░░░░░░�
 
 ### 📊 Code Time
 
-[![wakatime](https://wakatime.com/badge/user/e0c364e2-4fdb-42db-a513-0d5ed460a900.svg)](https://wakatime.com/@e0c364e2-4fdb-42db-a513-0d5ed460a900)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26848%26project%3D%26in=0)](https://codetime.dev)
